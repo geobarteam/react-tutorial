@@ -8,5 +8,15 @@
         "id": 1420070400000,
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1475171693950,
+        "author": "Geoffrey Vandiest",
+        "text": "Can't debug react from chrome!"
+    },
+    {
+        "id": 1475419754018,
+        "author": "Joel",
+        "text": "Visual studio code rocks!"
     }
 ]

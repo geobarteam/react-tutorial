@@ -9,10 +9,14 @@
     "body-parser": "^1.4.3",
     "express": "^4.4.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "typescript": "^2.0.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "npm run server",
+    "lite": "lite-server",
+    "server": "node server"
   },
   "repository": {
     "type": "git",
@@ -29,7 +33,7 @@
     "url": "https://github.com/reactjs/react-tutorial/issues"
   },
   "homepage": "https://github.com/reactjs/react-tutorial",
-  "engines" : {
-    "node" : "0.12.x"
+  "engines": {
+    "node": "0.12.x"
   }
 }
